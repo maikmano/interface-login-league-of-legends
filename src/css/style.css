@@ -217,9 +217,10 @@ main {
 }
 
 .wallpaper {
-    width: 100%;
-    background-image: url('./images/wallpaper.jpg');
-    background-size: cover;
-    background-position: center;
-    flex: 1;
+  width: 100%;
+  background-image: url('./images/wallpaper.jpg');
+  background-size: cover;
+  background-position: center;
+  flex: 1;
 }
+
